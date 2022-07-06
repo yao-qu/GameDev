@@ -8,7 +8,7 @@ A brief introduction of the game:
 - it contains 3 mini levels, upon completion of each level a code is given
 - 1 - requires the player to boost up health level to 95%+ within a short time
 - 2 - requires the player to change the colour of all the tiles on the platform whilst avoiding touching the platform directly
-- 3 - requires the player to reach the end of the platform when there are no audio playing (idea taken from Squid Game), had originally used the audio from squid game, but removed due to ?license 
+- 3 - requires the player to reach the end of the platform when there are no audio playing (idea taken from Squid Game), had originally used the audio from Squid Game, but changed due to ?copy-right/license issues
 - Final - the player must receive three secret codes to unlock the final destination of the game
 - part of the story line is inspired by The Little Prince and direct quotes are taken from the English translation
 - code release pending due to large files 
