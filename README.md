@@ -9,3 +9,7 @@
 [Mac Build](https://drive.google.com/file/d/1Z6_TWyRr5Nt70es65A7l1Ul7KopXq67t/view?usp=sharing)
 [Windows Build](https://drive.google.com/file/d/1NIcJJxTsWBG-rVYZwkmLB5RxyPFpzmkV/view?usp=sharing)
 [WebGL Build] - pending
+
+
+# Game Machination
+<img width="950" alt="GameMachination" src="https://user-images.githubusercontent.com/45407662/177601176-d43f190a-0c1a-4d9c-9bf1-759f1f82ffe0.png">
