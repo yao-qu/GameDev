@@ -20,7 +20,7 @@ A brief introduction of the game:
 
 
 # Game Machination
-[Simulation](https://my.machinations.io/d/Copy-of- MoJ/08bec2aad0edb9ed448308158f7ff0d7c) 
+[Simulation](https://my.machinations.io/d/Copy-of-MoJ/08bec2aad0edb9ed448308158f7ff0d7c) 
 
 <img width="950" alt="GameMachination" src="https://user-images.githubusercontent.com/45407662/177601176-d43f190a-0c1a-4d9c-9bf1-759f1f82ffe0.png">
 
