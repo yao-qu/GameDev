@@ -10,9 +10,9 @@ A brief introduction of the game:
 - part of the story line is inspired by The Little Prince and direct quotes are taken from the English translation
 - code release pending due to large files 
 
-[Game Preview](https://drive.google.com/file/d/1n77x-B8NY5K2oCIOCtta5-177qBJKADo/view?usp=sharing)
-[Mac Build](https://drive.google.com/file/d/1Z6_TWyRr5Nt70es65A7l1Ul7KopXq67t/view?usp=sharing)
-[Windows Build](https://drive.google.com/file/d/1NIcJJxTsWBG-rVYZwkmLB5RxyPFpzmkV/view?usp=sharing)
+[Game Preview](https://drive.google.com/file/d/1n77x-B8NY5K2oCIOCtta5-177qBJKADo/view?usp=sharing) | 
+[Mac Build](https://drive.google.com/file/d/1Z6_TWyRr5Nt70es65A7l1Ul7KopXq67t/view?usp=sharing) | 
+[Windows Build](https://drive.google.com/file/d/1NIcJJxTsWBG-rVYZwkmLB5RxyPFpzmkV/view?usp=sharing) | 
 [WebGL Build] - pending
 
 
